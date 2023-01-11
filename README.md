@@ -1,5 +1,5 @@
-- 👋 Hi, I'm Yan. I'm looking for a software engineer internship currently. I'm working hard and willing to learn new technology.
-- 👀 I’m interested in coding
-- 🌱 My major is Computer Science, and I will graduate in December, 2023
-- 💞️ I’m looking to collaborate on GitHub
+- 👋 Hi, I'm Yan. I'm looking for a software engineer internship currently. 
+- 👀 I’m interested in coding, working hard, and willing to learn new technology.
+- 🌱 My major is Computer Science, and I will graduate in December, 2023.
+- 💞️ I’m looking to collaborate on GitHub.
 - 📫 ychenfolio@gmail.com
