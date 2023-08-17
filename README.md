@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Yan. I'm looking for a software engineer internship currently. 
+- 👋 Hi, I'm Yan. I'm looking for a junior software engineer job currently. 
 - 🌱 My major is Computer Science, and I will graduate in December 2023.
 - 👩‍💻 Here are my experiences with some languages: Java: 3 years / C: 1 year / Python: 6 months / Mips: 3 months / JavaScript: 3 months.
 - 👀 I’m interested in technology skills, working hard, and willing to learn new things.
