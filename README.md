@@ -15,7 +15,7 @@ I'm a computer science student graduating in December 2023 with three years of e
 <p>&nbsp;</p>
 
 ### Technical skills
-###### Languages:
+##### Languages:
 <p align="left">
     <img src="images/java.svg" alt="Java" height="30" width="40" style="margin-right: 10px;" />
     <img src="images/c.svg" alt="C" height="30" width="40" style="margin-right: 10px;" />
@@ -26,13 +26,13 @@ I'm a computer science student graduating in December 2023 with three years of e
     <img src="images/html.svg" alt="HTML" height="30" width="40" />
 </p>
 
-###### Version Control:
+##### Version Control:
 <p align="left">
     <img src="images/git.svg" alt="Git" height="30" width="40" style="margin-right: 10px;" />
     <img src="images/github.svg" alt="GitHub" height="30" width="40" style="margin-right: 10px;" />
 </p>
 
-###### Additional Tools:
+##### Additional Tools:
 <p align="left">
     <img src="images/linux.svg" alt="Linux" height="30" width="40" style="margin-right: 10px;" />
     <img src="images/figma.svg" alt="Figma" height="30" width="40" style="margin-right: 10px;" />
