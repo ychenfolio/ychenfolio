@@ -1,17 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=708238&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Yan+Chen)](https://github.com/ychenfolio)
 
-<div style="margin-bottom: 5px;">
-    <span style="color: #0B6623; font-family: 'Fira Code', monospace; font-size: 18px; font-weight: bold;">About me</span>
-</div>
+<span style="color: #0B6623; font-family: 'Fira Code', monospace; font-size: 18px; font-weight: bold;">About me</span>
+I'm a computer science student graduating in December 2023 with three years of experience in Java and one year in C. I also have exposure to Python, JavaScript, MIPS, and Haskell. I'm currently looking for a junior software job.
 
-<p align="left" style="font-family: 'Fira Code', monospace;">
-    I'm a computer science student graduating in December 2023 with three years of experience in Java and one year in C. I also have exposure to Python, JavaScript, MIPS, and Haskell. I'm currently looking for a junior software job.
-</p>
-
-<div style="margin-top: 25px; margin-bottom: 10px;">
-    <span style="color: #4C9A2A; font-family: 'Fira Code', monospace; font-size: 18px; font-weight: bold;">Connect with me</span>
-</div>
-
+<span style="color: #0B6623; font-family: 'Fira Code', monospace; font-size: 18px; font-weight: bold;">Connect with me</span>
 
 <p align="left">
     <a href="mailto:ychenfolio@gmail.com" target="_blank"><img align="center" src="images/gmail.svg" alt="ychenfolio" height="30" width="35" /></a>
@@ -20,10 +12,7 @@
     <a href="https://stackoverflow.com/users/ychenfolio" target="_blank"><img align="center" src="images/stack-overflow.svg" alt="ychenfolio" height="30" width="40" /></a>
 </p>
 
-
-<div style="margin-top: 30px; margin-bottom: 10px;">
-    <span style="color: #556B2F; font-family: 'Fira Code', monospace; font-size: 18px; font-weight: bold;">Technical skills</span>
-</div>
+<span style="color: #0B6623; font-family: 'Fira Code', monospace; font-size: 18px; font-weight: bold;">Technical skills</span>
 
 <p align="left">
     <span style="color: olive; font-size: 15px; font-weight: bold; background-color: #8FBC8F">Languages:</span>
