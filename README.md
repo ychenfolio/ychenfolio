@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=708238&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Yan+Chen)](https://github.com/ychenfolio)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=708238&center=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Yan+Chen)](https://github.com/ychenfolio)
 
 <span style="color: #0B6623; font-family: 'Fira Code', monospace; font-size: 18px; font-weight: bold;">About me</span>
 I'm a computer science student graduating in December 2023 with three years of experience in Java and one year in C. I also have exposure to Python, JavaScript, MIPS, and Haskell. I'm currently looking for a junior software job.
