@@ -8,7 +8,6 @@ I'm a computer science student graduating in December 2023 with three years of e
     <a href="mailto:ychenfolio@gmail.com" target="_blank"><img align="center" src="images/gmail.svg" alt="ychenfolio" height="30" width="35" /></a>
     <a href="https://github.com/ychenfolio" target="_blank"><img align="center" src="images/github.svg" alt="ychenfolio" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/ychenfolio" target="_blank"><img align="center" src="images/linked-in.svg" alt="ychenfolio" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/ychenfolio" target="_blank"><img align="center" src="images/stack-overflow.svg" alt="ychenfolio" height="30" width="40" /></a>
 </p>
 
 #### Technical skills
