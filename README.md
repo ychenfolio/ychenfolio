@@ -32,6 +32,18 @@ I'm a computer science student graduating in December 2023 with three years of e
 <p align="left">
     <img src="images/linux.svg" alt="Linux" height="30" width="40" style="margin-right: 10px;" />
     <img src="images/figma.svg" alt="Figma" height="30" width="40" style="margin-right: 10px;" />
+    <img src="images/sketch.svg" alt="Sketch" height="30" width="40" style="margin-right: 10px;" />
     <img src="images/react.svg" alt="React" height="30" width="40" style="margin-right: 10px;" />
+    <img src="images/android.svg" alt="Android" height="30" width="40" style="margin-right: 10px;" />
+    <img src="images/angularjs.svg" alt="Angular" height="30" width="40" style="margin-right: 10px;" />
+    <img src="images/express.svg" alt="Express" height="30" width="40" style="margin-right: 10px;" />
+    <img src="images/firebase.svg" alt="Firebase" height="30" width="40" style="margin-right: 10px;" />
+    <img src="images/mysql.svg" alt="Mysql" height="30" width="40" style="margin-right: 10px;" />
+    <img src="images/sqlite.svg" alt="Sqlite" height="30" width="40" style="margin-right: 10px;" />
+    <img src="images/opencv.svg" alt="OpenCV" height="30" width="40" style="margin-right: 10px;" />
+    <img src="images/tensorflow.svg" alt="Tensorflow" height="30" width="40" style="margin-right: 10px;" />
+    <img src="images/pytorch.svg" alt="Pytorch" height="30" width="40" style="margin-right: 10px;" />
+    <img src="images/illustrator.svg" alt="Illustrator" height="30" width="40" style="margin-right: 10px;" />
+    <img src="images/photoshop.svg" alt="Photoshop" height="30" width="40" style="margin-right: 10px;" />
 </p>
 
