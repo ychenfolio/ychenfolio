@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=708238&center=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Yan+Chen)](https://github.com/ychenfolio)
 
 #### :cat: About Me
-I'm a computer science student graduating in December 2023 with three years of experience in Java and one year in C. I also have exposure to Python, JavaScript, MIPS, and Haskell. I'm currently looking for a junior software job.
+I'm a computer science student graduating in December 2023 with three years of experience in Java and one year in C. I also have exposure to Python, JavaScript, MIPS, and Haskell. I'm currently looking for a junior software engineer job.
 <p>&nbsp;</p>
 
 #### :mailbox: Connect With Me
