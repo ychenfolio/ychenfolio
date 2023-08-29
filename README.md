@@ -2,8 +2,8 @@
 
 #### :cat: About Me
 I'm a computer science student graduating in December 2023 with three years of experience in Java and one year in C. I also have exposure to Python, JavaScript, MIPS, and Haskell. I'm currently looking for a junior software job.
-* `Portpolio:`
-* <p align="left">
+* `Portfolio:`
+<p align="left">
     <a href="www.ychenfolio.com" target="_blank"><img src="images/logo.ico" alt="Yan Chen" height="30" width="40" style="margin-right: 10px;" /></a>
 </p>
 <p>&nbsp;</p>
