@@ -5,7 +5,7 @@ I'm a computer science student graduating in December 2023 with three years of e
 
 Here is my portfolio:
 <p align="left">
-    <a href="https://ychenfolio.com" target="_blank"><img src="images/logo.ico" alt="Yan Chen" height="30" width="auto" style="margin-right: 10px;" /></a>
+    <a href="https://ychenfolio.com" target="_blank"><img src="images/logo.ico" alt="Yan Chen's Portfolio" height="30" width="auto" /></a>
 </p>
 <p>&nbsp;</p>
 
